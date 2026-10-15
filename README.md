@@ -2,7 +2,7 @@
 GBC COMP-1238 Course - Intro to Data Management.
 
 See the [summaries/](/summaries/) folder for lecture note summaries by week.
-
+[COMP1238](comp1238.md)
 
 # Videos and links by subject
 
